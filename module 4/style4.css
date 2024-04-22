@@ -66,3 +66,28 @@ footer a {
     color: #0bf;
     text-decoration: none;
 }
+.image-gallery3 {
+    text-align: center; /* Center align the content */
+}
+
+.gallery-heading {
+    background-color: rgb(199, 239, 225);
+    text-align: center;
+    margin-bottom: 20px; /* Add spacing below the heading */
+}
+
+
+.gallery{
+    background-color: rgb(195, 247, 136);
+    text-align: center;
+    margin-bottom: 20px; 
+}
+
+.img1{
+    margin: 20px;
+    height: 30%;
+    width: 40%;}
+.mno{
+margin: auto;
+
+}
