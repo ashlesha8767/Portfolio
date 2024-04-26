@@ -7,14 +7,15 @@ body {
   .parent{
     background: linear-gradient(rgb(146, 131, 240),lightblue);
   }
-{
+
+/* {
   position: absolute;
   background-image: url(web.jpg);
   
   height: 10%;
   width: 10%;
   border-radius: 0%;
-}
+} */
 .img1{
   height: 200px;
   width: auto;
@@ -24,15 +25,13 @@ body {
 
   display:flex;
   height: 50%;
-  background-color: #83c7ee;
+  background-color: #94d2f6;
 text-align: center; 
 
 }
 .child1{
   display: flex;
-  text-align: center;
-  
-
+   text-align: center;
 }
 
 .img1{
@@ -57,4 +56,14 @@ text-align: center;
 .t{
   text-align: center;
   background-color: yellowgreen;
+}
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+}
+
+ .h1 {
+  text-align: center;
+  margin: 0%;
 }
